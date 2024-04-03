@@ -1,2 +1,4 @@
 # Git-Learning
-i am  learning the the GIt and Git Hub
+Hello My name is Ruturaj,
+<br> 
+i am Learning Git and GitHub.
